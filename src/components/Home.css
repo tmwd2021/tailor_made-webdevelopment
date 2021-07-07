@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0
+}
+
+.con-top{
+    margin-top: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.con-top img {
+    padding: 25px 0;
+    margin: 25px 0;
+}
